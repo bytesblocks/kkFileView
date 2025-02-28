@@ -64,13 +64,11 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
         <div class="navbar-header">
-            <a class="navbar-brand" href="https://kkview.cn" target='_blank'>kkFileView</a>
+            <a class="navbar-brand" href="#" target='_blank'>kkFileView</a>
         </div>
         <ul class="nav navbar-nav">
             <li class="active"><a href="./index">首页</a></li>
             <li><a href="./integrated">接入说明</a></li>
-            <li><a href="./record">版本发布记录</a></li>
-            <li><a href="./sponsor">赞助开源</a></li>
         </ul>
     </div>
 </nav>
@@ -79,7 +77,6 @@
     <#--  接入说明  -->
     <div class="page-header">
         <h1>支持的文件类型</h1>
-        我们一直在扩展支持的文件类型，不断优化预览的效果，如果您有什么建议，欢迎在kk开源社区留意反馈：<a target='_blank' href="https://t.zsxq.com/09ZHSXbsQ">https://t.zsxq.com/09ZHSXbsQ</a>。
     </div>
     <div >
         <ol>
