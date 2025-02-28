@@ -23,6 +23,6 @@ jobs:
       uses: softprops/action-gh-release@v2
       with: 
         files: |
-          target/*.zip
-          target/*.tar.gz
+          server/target/*.zip
+          server/target/*.tar.gz
         fail_on_unmatched_files: true
